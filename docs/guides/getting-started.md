@@ -7,12 +7,12 @@ Para começar a utilizar o **Po** (Portinari UI) é pré-requisito ter o `Node.j
 
 Instalando com npm:
 ```
-npm i -g @angular/cli@8.0.0
+npm i -g @angular/cli@9.0.5
 ```
 
 Caso prefira instalar com o yarn:
 ```
-yarn global add @angular/cli@8.0.0
+yarn global add @angular/cli@9.0.5
 ```
 
 ### Passo 1 - Crie o seu primeiro projeto
